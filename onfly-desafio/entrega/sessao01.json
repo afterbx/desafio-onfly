@@ -1,0 +1,22 @@
+{
+  "instructions": "Download each file using the export_url. Each link expires 24 hours after it is created and may stop working before then once it has been used, so download each file completely when you open its link.",
+  "created_at": "2026-11-16T03:05:02.356200+00:00",
+  "total_files": 2,
+  "data_files": [
+    {
+      "batch_index": 0,
+      "export_url": "https://claude.ai/export/51db9182-a83d-4203-a585-536a9e347d9a/download/62ba46ebd9e0ab8b58a04b236caa9ce7",
+      "category": "light_metadata",
+      "part": 0,
+      "filename": "light_metadata-000.zip"
+    },
+    {
+      "batch_index": 1,
+      "export_url": "https://claude.ai/export/51db9182-a83d-4203-a585-536a9e347d9a/download/a77bcdf2da762cc6b224dcd767bb83a6",
+      "category": "conversations",
+      "part": 0,
+      "filename": "conversations-000.zip"
+    }
+  ],
+  "version": "1.0"
+}
